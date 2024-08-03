@@ -82,4 +82,4 @@ You can click the Preview link to take a look at your changes.
 <!--START_SECTION:waka-->
 
 <!--END_SECTION:waka-->
-![views since 2023/06/14](https://visitor-badge-deno.deno.dev/tapas-kumar-shety.tapas-kumar-shety.svg)
+  <img src="https://komarev.com/ghpvc/?username=tapas-kumar-shety&label=Profile%20views&color=0e75b6&style=flat" alt="tapas-kumar-shety" /> 
