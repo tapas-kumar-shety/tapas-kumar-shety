@@ -95,6 +95,7 @@ You can click the Preview link to take a look at your changes.
 <h1 align="center">
 ## 🏆 GitHub Trophies
 </h1>
+
 ![](https://github-profile-trophy.vercel.app/?username=tapas-kumar-shety&theme=radical&no-frame=false&no-bg=true&margin-w=4)
 <!--START_SECTION:waka-->
 
