@@ -5,22 +5,26 @@
 <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Tapas;" />
 </h1>
 
-<P>
+
 - 👀 I’m interested in **FULL STACK**
+  
 - 🌱 I’m currently learning ** DEVOPS **
-- 💞️ I’m looking to collaborate on ...
+  
 - 📫 How to reach me ...
+  
 - 😄 Pronouns: ** he/him **
-- ⚡ Fun fact: ...
-</P>
+
+
 <!---
 tapas-kumar-shety/tapas-kumar-shety is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
 
 
-    
+<h1 align="center">
 # 🖥️ Technical Skills: 
+</h1>
+
 <p align="left">
   <a href="https://www.w3schools.com/html/" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/>
@@ -78,13 +82,19 @@ You can click the Preview link to take a look at your changes.
   </a>
 </p>
 
+<h1 align="center">
 # 📊 GitHub Stats:
+</h1>
+
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=tapas-kumar-shety&theme=radical&border=false&include_all_commits=true&count_private=true&layout=compact)
 ![](https://github-readme-stats.vercel.app/api?username=tapas-kumar-shety&theme=radical&_border=false&include_all_commits=true&count_private=true)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=tapas-kumar-shety&theme=radical&hide_border=false)
 <img src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/about_me.gif?raw=true" alt="About Me GIF" width="180px">
 <br/>
+
+<h1 align="center">
 ## 🏆 GitHub Trophies
+</h1>
 ![](https://github-profile-trophy.vercel.app/?username=tapas-kumar-shety&theme=radical&no-frame=false&no-bg=true&margin-w=4)
 <!--START_SECTION:waka-->
 
