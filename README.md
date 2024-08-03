@@ -8,11 +8,11 @@
 
 - 👀 I’m interested in **FULL STACK**
   
-- 🌱 I’m currently learning ** DEVOPS **
+- 🌱 I’m currently learning **DEVOPS**
   
 - 📫 How to reach me ...
   
-- 😄 Pronouns: ** he/him **
+- 😄 Pronouns: **he/him**
 
 
 <!---
