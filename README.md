@@ -6,7 +6,7 @@
 </h1>
 
 
-- 👀 I’m interested in **FULL STACK**
+ -  👀 I’m interested in **FULL STACK**
   
 - 🌱 I’m currently learning **DEVOPS**
   
@@ -93,9 +93,9 @@ You can click the Preview link to take a look at your changes.
 # 📊 GitHub Stats:
 </h1>
 
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=tapas-kumar-shety&theme=radical&border=false&include_all_commits=true&count_private=true&layout=compact)
-![](https://github-readme-stats.vercel.app/api?username=tapas-kumar-shety&theme=radical&_border=false&include_all_commits=true&count_private=true)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=tapas-kumar-shety&theme=radical&hide_border=false)
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=tapas-kumar-shety&theme=merko&border=false&include_all_commits=true&count_private=true&layout=compact)
+![](https://github-readme-stats.vercel.app/api?username=tapas-kumar-shety&theme=merko&_border=false&include_all_commits=true&count_private=true)<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=tapas-kumar-shety&theme=merko&hide_border=false)
 <img src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/about_me.gif?raw=true" alt="About Me GIF" width="180px">
 <br/>
 
