@@ -18,8 +18,8 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/TapasKumar08" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="TapasKumar08" height="30" width="40" /></a>
-<a href="https://www.linkedin.com/in/tapas-kumar-shety-657159265?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="www.linkedin.com/in/tapas-kumar-shety-657159265" height="30" width="40" /></a>
-<a href="https://instagram.com/https://www.instagram.com/tapaskumar_o0o8/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="https://www.instagram.com/tapaskumar_o0o8/" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/tapas-kumar-shety-657159265?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/tapas-kumar-shety-657159265?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app" height="30" width="40" /></a>
+<a href="https://www.instagram.com/tapaskumar_o0o8?igsh=YnNyd29zZzg3dXNs" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="https://www.instagram.com/tapaskumar_o0o8?igsh=YnNyd29zZzg3dXNs" height="30" width="40" /></a>
 <a href="https://discord.gg/tapaso0o8" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="tapaso0o8" height="30" width="40" /></a>
 </p>
 <!---
