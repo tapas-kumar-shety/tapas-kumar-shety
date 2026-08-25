@@ -6,7 +6,7 @@
 
  -  👀 I’m interested in **FULL STACK**
   
-- 🌱 I’m currently learning **LINUX**
+- 🌱 I’m currently learning **system design**
   
 - 📫 How to reach me [**Mail**](mailto:ktapaskumar666@gmail.com)
   
